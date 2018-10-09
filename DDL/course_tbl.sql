@@ -1,4 +1,4 @@
-CREATE TABLE `course_tbl` (
+CREATE TABLE `course_tbl` ( 
   `courseId` int(11) NOT NULL AUTO_INCREMENT,
   `courseName` varchar(45) NOT NULL,
   `courseDescription` mediumtext NOT NULL,
